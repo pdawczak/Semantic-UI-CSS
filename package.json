@@ -1,6 +1,7 @@
 {
   "name": "semantic-ui-css",
   "version": "2.1.8",
+  "main": "semantic.js",
   "title": "Semantic UI",
   "description": "CSS Only distribution of Semantic UI",
   "homepage": "http://www.semantic-ui.com",
